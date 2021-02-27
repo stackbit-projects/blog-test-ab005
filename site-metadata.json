@@ -5,7 +5,7 @@
         "tagline": "Complex Ideas on a Simple Blog",
         "logo_img_alt": "Pedro",
         "background_img": "images/home.jpg",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
